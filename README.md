@@ -204,8 +204,8 @@ npm test
 
 ## Screenshots
 
-<img width="1002" height="730" alt="signin" src="https://github.com/user-attachments/assets/1f05bede-b8fd-4519-b4ce-294da6653018" />
-<img width="727" height="842" alt="registration" src="https://github.com/user-attachments/assets/ed150e0b-2149-43d7-b8e3-ddd0b75152b9" />
+<img width="560" height="560" alt="signin" src="https://github.com/user-attachments/assets/1f05bede-b8fd-4519-b4ce-294da6653018" />
+<img width="560" height="560" alt="registration" src="https://github.com/user-attachments/assets/ed150e0b-2149-43d7-b8e3-ddd0b75152b9" />
 <img width="1915" height="934" alt="dashboard" src="https://github.com/user-attachments/assets/b9cde11a-b0c9-4bea-a907-4f0879be601d" />
 <img width="1919" height="901" alt="purchased" src="https://github.com/user-attachments/assets/72b6f4f9-44b3-4d93-80aa-f482fe7a3efe" />
 
