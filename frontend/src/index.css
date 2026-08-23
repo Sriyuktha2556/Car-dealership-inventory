@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    min-width: 320px;
+    background: #F4F6FA;
+  }
+  body {
+    margin: 0;
+    min-width: 320px;
+    background: #F4F6FA;
+    color: #0F172A;
+  }
+  button, input, select {
+    font: inherit;
+  }
+  html {
+    font-family: "Inter", system-ui, sans-serif;
+  }
+  h1, h2, h3, .font-display {
+    font-family: "Space Grotesk", system-ui, sans-serif;
+  }
+  :focus-visible {
+    outline: 2px solid theme("colors.accent.500");
+    outline-offset: 2px;
+  }
+}
